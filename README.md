@@ -24,7 +24,7 @@ To install using poetry:
 ## Usage
 To run the notebook in jupyter lab, simply use:
 
-`jupyter lab`
+`jupyter-lab`
 
 Alternativly using jupyter notebook:
 
